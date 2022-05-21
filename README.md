@@ -2,7 +2,7 @@ Hi There :wave:
 
 ### Stats :chart_with_upwards_trend:
 
-[![Paulmburu's github stats](https://github-readme-stats.vercel.app/api?username=KathurimaKimathi&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Kathurima's github stats](https://github-readme-stats.vercel.app/api?username=KathurimaKimathi&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KathurimaKimathi&show_icons=true&layout=compact&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect 🌎
