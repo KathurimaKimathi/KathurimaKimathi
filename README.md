@@ -6,11 +6,11 @@ I am a software developer and my main stack(s) include:
 ### 🌱 I’m currently:
 #### Advancing:
  - Golang
+ - Project Management
  
 #### Learning:
  - C++
  - Automation with GCP
- - Project Management
 
 ### 👯 I’m looking to collaborate on:
  - Any API development using Golang
