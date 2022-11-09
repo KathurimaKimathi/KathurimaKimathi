@@ -9,7 +9,7 @@ I am a software developer and my main stack(s) include:
  - Project Management
  
 #### Learning:
- - C++
+ - Spring framework with Java
  - Automation with GCP
 
 ### 👯 I’m looking to collaborate on:
