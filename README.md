@@ -1,19 +1,19 @@
 ### Hi there 👋
 
-I am a software developer and my main stack(s) include:
+I am a software developer and my main stack is:
 - Golang
 
 ### 🌱 I’m currently:
 #### Advancing:
  - Golang
  - Project Management
+ - Automation with GCP
  
 #### Learning:
  - Spring framework with Java
- - Automation with GCP
 
 ### 👯 I’m looking to collaborate on:
- - Any API development using Golang
+ - Any software development preferrably bu not limited to Golang
  
  ### Stats
  
