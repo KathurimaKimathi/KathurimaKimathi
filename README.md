@@ -13,7 +13,7 @@ I am a software developer and my main stack is:
  - Spring framework with Java
 
 ### 👯 I’m looking to collaborate on:
- - Any software development preferrably bu not limited to Golang
+ - Any software development preferrably but not limited to Golang
  
  ### Stats
  
