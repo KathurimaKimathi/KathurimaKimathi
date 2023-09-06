@@ -1,40 +1,27 @@
-### Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KathurimaKimathi&label=Profile%20views&color=0e75b6&style=flat" alt="kathurimakimathi" /> </p>
+<h1 align="center">Hi 👋, I'm Kathurima Kimathi</h1>
 
-I am a software developer and my main stack is:
-- Golang
+<h3 align="center">A Backend developer from Nairobi,Kenya</h3>
 
-### 🌱 I’m currently:
-#### Advancing:
- - Golang
- - Project Management
- - Automation with GCP
- 
-#### Learning:
- - Spring framework with Java
+- 🌱 I’m currently learning **Java, OpenMRS**
 
-### 👯 I’m looking to collaborate on:
- - Any software development preferably but not limited to Golang
- 
- ### Stats
- 
- ![Kathurima Kimathi Github Stats](https://github-readme-stats.vercel.app/api?username=kathurimakimathi&show_icons=true&theme=radical)
- 
- ### Connect 🌎
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kathurima-kimathi/)](https://www.linkedin.com/in/kathurima-kimathi/) 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Kathurimakim)](https://twitter.com/Kathurimakim)
+- 💬 Ask me about **Golang, GCP, SQL**
 
+- 📫 How to reach me **kathurimakimm@gmail.com**
 
-<!--
-**KathurimaKimathi/KathurimaKimathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://linkedin.com/in/kathurimakimathi) 
 
-Here are some ideas to get you started:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="golang" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="googlecloud" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" alt="graphql" width="40" height="40"/> </a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KathurimaKimathi&show_icons=true&locale=en&layout=compact" alt="KathurimaKimathi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KathurimaKimathi&show_icons=true&locale=en" alt="KathurimaKimathi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KathurimaKimathi&" alt="KathurimaKimathi" /></p>
+
+## 🏆 GitHub Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KathurimaKimathi" alt="KathurimaKimathi" /></a> </p>
+
+>
