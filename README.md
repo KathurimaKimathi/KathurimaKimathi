@@ -3,9 +3,7 @@
 
 <h3 align="center">A Backend developer from Nairobi,Kenya</h3>
 
-- 🌱 I’m currently learning **Java, OpenMRS**
-
-- 💬 Ask me about **Golang, GCP, SQL**
+- 💬 Ask me about **Software Crafting**
 
 - 📫 How to reach me **kathurimakimm@gmail.com**
 
